@@ -1,0 +1,11 @@
+requests
+zstandard
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+lightgbm
+xgboost
+catboost
+optuna

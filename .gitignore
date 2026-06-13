@@ -1,0 +1,41 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Runtime data and generated outputs
+runtime/
+out_prod/
+out_prod_player/
+out_latest/
+out_*/
+catboost_info/
+
+# Generated data/model artifacts
+*.sqlite3
+*.db
+*.jsonl
+*.log
+*.csv
+*.tsv
+*.npz
+*.npy
+*.parquet
+*.zst
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.tar
+*.tar.gz
+
+# Credentials and local machine files
+*.pem
+*.key
+keys/
+envs/
